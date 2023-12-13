@@ -1,0 +1,24 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\ISA\DB\AsmAssistant]
+"AboutTitle"="FUCKASM小助手"
+"ForbidProcess"="fuck.exe"
+"AfterReboot"="0"
+"AssExitBtnShow"="1"
+"AuthInterval"="100000000"
+"CheckDayOfWeek"="0"
+"CheckDial"="No"
+"CheckDoubleNetCard"="No"
+"CheckFailRecheckTime"="300000000"
+"CheckWirelessNetCard"="No"
+"CutDial"="No"
+"ForbidNetCard"="No"
+"IsaState"="Success"
+"ForbidWirelessNetCard"="No"
+"IsAutoRepair"="0"
+"IsDoSecurityCheck"="0"
+"IsCutNetAtIPChanged"=dword:00000000
+"CheckWirelessNetCardInterval"="300000000"
+"CheckNetCardInterval"="300000000"
+"CheckDialInterval"="300000000"
+"DetectInterval"="300000000"
