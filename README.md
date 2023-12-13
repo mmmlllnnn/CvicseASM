@@ -26,7 +26,7 @@ python test.py
 
 ## 截图
 
-![](https://cdn.jsdelivr.net/gh/mmmlllnnn/CvicseASM/cvicse.jpg)
+![](https://cdn.jsdelivr.net/gh/mmmlllnnn/CvicseASM/cvicse.png)
 ## 声明
 使用者请对自己行为负责，因此仓库产生的后果与作者无关。
 
